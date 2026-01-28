@@ -1,4 +1,4 @@
-# DSA-DAY-1-practice
+# DSA-Practice
 
 
 ## Day 1 – Two Sum (LeetCode)
